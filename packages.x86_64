@@ -133,3 +133,5 @@ kde-applications-meta
 packagekit-qt6
 sddm
 
+#calamares
+calamares
