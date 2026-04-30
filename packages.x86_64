@@ -128,10 +128,12 @@ xl2tpd
 zsh
 
 # MY LAST ARCH
+bash-completion
 plasma-meta
 kde-applications-meta
 packagekit-qt6
 sddm
+partitionmanager
 
 #calamares
 calamares
